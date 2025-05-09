@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chonlapat Aueaaranchot(PAO)</h1>
 <h3 align="center">Always learning, always building — Full-stack dev from Thailand 🌱</h3>
 
-- 🌱 I’m currently learning **Advanced server components in Next.js, T3 stack, CI/CD pipelines**
+- 🌱 I’m currently learning **Advanced server components in Next.js, CI/CD pipelines**
 
 - 📫 How to reach me **cschonlapat@gmail.com**
 
