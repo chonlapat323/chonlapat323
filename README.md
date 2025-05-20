@@ -35,10 +35,11 @@
   ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
   ![WebSocket](https://img.shields.io/badge/WebSocket-005BBB?style=flat)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Coolify](https://img.shields.io/badge/Deployed%20via-Coolify-3B82F6?style=flat&logo=githubactions&logoColor=white)
 
 - **Description:** Microservices-based real-time chat app with JWT authentication,  
   WebSocket communication, Redis pub/sub, and frontend state management via Redux.
-
+  Deployed with CI/CD using Coolify.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
