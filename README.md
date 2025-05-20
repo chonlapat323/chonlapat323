@@ -9,6 +9,17 @@
 
 - ⚡ Fun fact **I often debug better after a good cup of coffee ☕**
 
+<h3 align="left">🌐 Web Projects</h3>
+
+<p align="left">
+  <a href="https://paodev.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/MyShop-e91e63?style=for-the-badge&logo=shopify&logoColor=white" alt="MyShop" />
+  </a>
+  <a href="https://mychat.paodev.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/MyChat-00bcd4?style=for-the-badge&logo=wechat&logoColor=white" alt="MyChat" />
+  </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chonlapat-auae-a17962b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chonlapat-auae-a17962b5" height="30" width="40" /></a>
