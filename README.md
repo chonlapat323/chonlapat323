@@ -11,14 +11,34 @@
 
 <h3 align="left">🌐 Web Projects</h3>
 
-<p align="left">
-  <a href="https://paodev.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/MyShop-e91e63?style=for-the-badge&logo=shopify&logoColor=white" alt="MyShop" />
-  </a>
-  <a href="https://mychat.paodev.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/MyChat-00bcd4?style=for-the-badge&logo=wechat&logoColor=white" alt="MyChat" />
-  </a>
-</p>
+### 🛍️ [MyShop](https://paodev.xyz)
+
+- **Tech Stack:**  
+  ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+  ![Coolify](https://img.shields.io/badge/Deployed%20via-Coolify-3B82F6?style=flat&logo=githubactions&logoColor=white)
+
+- **Description:** E-commerce frontend with modern UI, cart system, and product management.  
+  Deployed with CI/CD using Coolify.
+
+---
+
+### 💬 [MyChat](https://mychat.paodev.xyz)
+
+- **Tech Stack:**  
+  ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+  ![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+  ![WebSocket](https://img.shields.io/badge/WebSocket-005BBB?style=flat)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+- **Description:** Microservices-based real-time chat app with JWT authentication,  
+  WebSocket communication, Redis pub/sub, and frontend state management via Redux.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
