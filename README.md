@@ -15,12 +15,14 @@
 
 - **Tech Stack:**  
   ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
   ![Coolify](https://img.shields.io/badge/Deployed%20via-Coolify-3B82F6?style=flat&logo=githubactions&logoColor=white)
 
-- **Description:** E-commerce frontend with modern UI, cart system, and product management.  
+- **Description:** Full-stack e-commerce app using **Next.js (frontend)** and **NestJS (backend)**.  
+  Includes product listing, cart system, and modern UI.  
   Deployed with CI/CD using Coolify.
 
 ---
