@@ -11,7 +11,7 @@
 
 <h3 align="left">🌐 Web Projects</h3>
 
-### 🛍️ [MyShop](https://paodev.xyz)
+### 🛍️ [MyShop](https://shop.paodev.xyz)
 
 - **Tech Stack:**  
   ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
