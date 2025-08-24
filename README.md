@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chonlapat Aueaaranchot(PAO)</h1>
-<h3 align="center">Always learning, always building — Full-stack dev from Thailand 🌱</h3>
 
-- 🌱 I’m currently learning **Advanced server components in Next.js, CI/CD pipelines**
 
 - 📫 How to reach me **cschonlapat@gmail.com**
 
 - 📄 Know about my experiences [https://chonlapat323.github.io/resume/Chonlapat-Aueaaranchot-Resume.pdf](https://chonlapat323.github.io/resume/Chonlapat-Aueaaranchot-Resume.pdf)
 
-- ⚡ Fun fact **I often debug better after a good cup of coffee ☕**
 
 <h3 align="left">🌐 Web Projects</h3>
 
