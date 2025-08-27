@@ -25,9 +25,11 @@
 ---
 
 <h3 align="left">🛠️ Infrastructure & DevOps</h3>
-    ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![Coolify](https://img.shields.io/badge/Deployed%20via-Coolify-3B82F6?style=flat&logo=githubactions&logoColor=white)
+
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Coolify](https://img.shields.io/badge/Deployed%20via-Coolify-3B82F6?style=flat&logo=githubactions&logoColor=white)
+
 - **Server Management:** Linux server administration, process management with PM2
 - **Containerization:** Docker & Docker Compose for deployment and orchestration
 - **Reverse Proxy:** Caddy configuration, SSL management, load balancing
