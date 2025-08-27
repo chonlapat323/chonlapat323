@@ -16,9 +16,7 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-  ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![Coolify](https://img.shields.io/badge/Deployed%20via-Coolify-3B82F6?style=flat&logo=githubactions&logoColor=white)
+ 
 
 - **Description:** Full-stack e-commerce app using **Next.js (frontend)** and **NestJS (backend)**.  
   Includes product listing, cart system, and modern UI.  
@@ -27,7 +25,9 @@
 ---
 
 <h3 align="left">🛠️ Infrastructure & DevOps</h3>
-
+    ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Coolify](https://img.shields.io/badge/Deployed%20via-Coolify-3B82F6?style=flat&logo=githubactions&logoColor=white)
 - **Server Management:** Linux server administration, process management with PM2
 - **Containerization:** Docker & Docker Compose for deployment and orchestration
 - **Reverse Proxy:** Caddy configuration, SSL management, load balancing
